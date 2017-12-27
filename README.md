@@ -1,3 +1,3 @@
 # SmartThings
 
-All of my SmartThings code
+Repository for all things related to SmartThings.
